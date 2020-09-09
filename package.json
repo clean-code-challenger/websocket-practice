@@ -1,0 +1,11 @@
+{
+    "name": "simple chat using websocket",
+    "version": "1.0",
+    "author": "Truegardener",
+    "description": "Websocket Chat Example",
+    "license": "MIT",
+    "dependencies": {
+        "ws": "^7.3.1"
+    },
+    "readmeFilename": "README.md"
+}
